@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/wang/Desktop/工作台/JS工作空间/ShotoWin1.4/public_html/src/MyGame/Objects/Hero1.js</file>
+            <file>file:/C:/Users/wang/Desktop/工作台/JS工作空间/ShotoWin1.4/public_html/src/Engine/Physics/RigidRectangle_Collision.js</file>
+            <file>file:/C:/Users/wang/Desktop/工作台/JS工作空间/ShotoWin1.4/public_html/src/MyGame/Objects/TraceBulletSet.js</file>
+            <file>file:/C:/Users/wang/Desktop/工作台/JS工作空间/ShotoWin1.4/public_html/src/MyGame/Statistics.js</file>
+            <file>file:/C:/Users/wang/Desktop/工作台/JS工作空间/ShotoWin1.4/public_html/src/Engine/Renderables/LineRenderable.js</file>
+            <file>file:/C:/Users/wang/Desktop/工作台/JS工作空间/ShotoWin1.4/public_html/src/MyGame/Objects/Hero3.js</file>
+            <file>file:/C:/Users/wang/Desktop/工作台/JS工作空间/ShotoWin1.4/public_html/src/MyGame/Objects/Hero2.js</file>
+            <file>file:/C:/Users/wang/Desktop/工作台/JS工作空间/ShotoWin1.4/public_html/src/Engine/Renderables/ParticleRenderable.js</file>
+            <file>file:/C:/Users/wang/Desktop/工作台/JS工作空间/ShotoWin1.4/public_html/src/Engine/Renderables/FontRenderable.js</file>
+            <file>file:/C:/Users/wang/Desktop/工作台/JS工作空间/ShotoWin1.4/public_html/src/Engine/Renderables/LightRenderable.js</file>
+            <file>file:/C:/Users/wang/Desktop/工作台/JS工作空间/ShotoWin1.4/public_html/src/Engine/Renderables/IllumRenderable.js</file>
+            <file>file:/C:/Users/wang/Desktop/工作台/JS工作空间/ShotoWin1.4/public_html/src/MyGame/Objects/TraceBullet.js</file>
+            <file>file:/C:/Users/wang/Desktop/工作台/JS工作空间/ShotoWin1.4/public_html/src/Engine/Physics/RigidRectangle.js</file>
+            <file>file:/C:/Users/wang/Desktop/工作台/JS工作空间/ShotoWin1.4/public_html/src/Engine/Physics/RigidShape_Behavior.js</file>
+            <file>file:/C:/Users/wang/Desktop/工作台/JS工作空间/ShotoWin1.4/public_html/src/Engine/Physics/RigidCircle_Collision.js</file>
+            <file>file:/C:/Users/wang/Desktop/工作台/JS工作空间/ShotoWin1.4/public_html/src/MyGame/ChooseHero.js</file>
+            <file>file:/C:/Users/wang/Desktop/工作台/JS工作空间/ShotoWin1.4/public_html/src/MyGame/MyGame.js</file>
+            <file>file:/C:/Users/wang/Desktop/工作台/JS工作空间/ShotoWin1.4/public_html/src/MyGame/MyGame_Physics.js</file>
+            <file>file:/C:/Users/wang/Desktop/工作台/JS工作空间/ShotoWin1.4/public_html/src/Engine/Renderables/Renderable.js</file>
+            <file>file:/C:/Users/wang/Desktop/工作台/JS工作空间/ShotoWin1.4/public_html/src/Engine/Renderables/SpriteAnimateRenderable.js</file>
+            <file>file:/C:/Users/wang/Desktop/工作台/JS工作空间/ShotoWin1.4/public_html/src/Engine/Renderables/TextureRenderable_PixelCollision.js</file>
+            <file>file:/C:/Users/wang/Desktop/工作台/JS工作空间/ShotoWin1.4/public_html/src/MyGame/StartScene.js</file>
+            <file>file:/C:/Users/wang/Desktop/工作台/JS工作空间/ShotoWin1.4/public_html/src/Engine/Physics/RigidCircle.js</file>
+        </group>
+    </open-files>
+</project-private>
